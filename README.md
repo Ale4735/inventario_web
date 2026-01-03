@@ -27,6 +27,5 @@ actualizar y eliminar productos, con autenticación de usuarios y control de sto
 3. Ejecutar el backend con Node.js.
 4. Abrir el frontend en el navegador.
 
-## Autores
+## Autor
 - Alexandra Moreira
-- [Nombre del segundo integrante]
