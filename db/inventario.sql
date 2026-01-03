@@ -1,2 +1,0 @@
--- Base de datos del sistema de inventario
--- Aquí irán las tablas de productos, usuarios y movimientos
